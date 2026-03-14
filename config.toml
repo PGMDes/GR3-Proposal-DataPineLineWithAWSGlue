@@ -1,0 +1,50 @@
+baseURL = "https://june4m.github.io/SKYLINE1_CLOUDRACKET_PROPOSAL_V2/"
+relativeURLs = true
+canonifyURLs = true
+defaultContentLanguage = "en"
+
+# Change the default theme to be use when building the site with Hugo
+theme = "hugo-theme-learn"
+
+# For search functionality
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+
+[params]
+  # Change default color scheme with a variant one. Can be "red", "blue", "green".
+  themeVariant = "workshop"
+  # Git hub repo link
+  editURL = ""
+  description = ""
+  author = "minhncse182968@fpt.edu.vn"
+  showVisitedLinks = true
+  disableBreadcrumb = false
+  disableNextPrev = false
+  
+[Languages]
+[Languages.en]
+title = "Proposal"
+weight = 1
+languageName = "English"
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fab fa-facebook'></i> AWS Study Group"
+identifier = "AWS Study Group FB"
+url = "https://www.facebook.com/groups/awsstudygroupfcj/"
+weight = 20
+
+[Languages.vi]
+title = "Bản đề xuất"
+weight = 2
+languageName = "Tiếng Việt"
+
+[[Languages.vi.menu.shortcuts]]
+name = "<i class='fab fa-facebook'></i> AWS Study Group"
+identifier = "AWS Study Group FB"
+url = "https://www.facebook.com/groups/awsstudygroupfcj/"
+weight = 20
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
