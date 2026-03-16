@@ -25,3 +25,6 @@ The project consists of 4 main phases:
 - **Analytics**: Custom Dashboard (Amplify + Lambda + Chart.js) visualizing DynamoDB/S3 data
 - **Automation**: Amazon EventBridge (Scheduler) for reminders, retraining, and data cleanup
 - **Maps API**: AWS Location Service or Google Maps/Places/Distance Matrix for nearby courts and navigation.
+
+## Content
+1. [WorkFlow](WorkFlow/)

@@ -25,3 +25,6 @@ Dự án được chia thành 4 giai đoạn chính:
 - **Analytics**: Custom Dashboard (trực quan hóa doanh thu, lượt đặt và đánh giá từ dữ liệu DynamoDB hoặc S3, hiển thị qua AWS Amplify + Lambda + Chart.js).
 - **Automation**: Amazon EventBridge (Scheduler) tự động hóa nhắc lịch, cập nhật dữ liệu gợi ý và dọn dẹp dữ liệu cũ
 - **Maps API**: AWS Location Service hoặc Google Maps / Places / Distance Matrix (tìm sân gần, hiển thị bản đồ và chỉ đường)
+
+## Nội dung
+1. [WorkFlow](WorkFlow/)

@@ -14,7 +14,7 @@ Data cleansing and standardization are automated through AWS Glue DataBrew Recip
 
 To drive business insights, AWS QuickSight delivers custom dashboards that visualize key performance indicators such as trip trends, passenger density, and revenue patterns in real-time. The entire ecosystem is strictly monitored by Amazon CloudWatch and fully automated via Amazon EventBridge to maintain a robust and self-healing pipeline.
 
-![Cloud Racket Platform Architecture](/images/2-Proposal/aws_architect.jpg)
+![Architecture](/images/2-Proposal/diagram-architecture-01.jpg)
 
 ## AWS Services Used
 - **AWS QuickSight**: Provides a Business Intelligence (BI) platform to visualize data through interactive dashboards, enabling deep analysis of taxi trip trends and financial performance.

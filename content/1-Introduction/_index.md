@@ -12,36 +12,44 @@ The **Cloud Racket Platform** is an innovative AWS Serverless solution designed 
 
 ## Team Introduction
 
-### Skyline1 Development Team
-
 Our dedicated team brings together expertise in software engineering and artificial intelligence to deliver a robust, scalable solution:
 
-**Development Team**
-- **Nguyễn Công Minh - Leader** - SE182968
-- Email: minhncse182968@fpt.edu.vn
-- Phone: 0363401520
-- Role: Backend/Frontend Development
+**Team Members**
+- **Triệu Quốc Hào (Leader)** - SE180011
+- Email: haotqse180011@fpt.edu.vn
+- Phone: 078-491-9197
+- Role: Data Scientist
 
-- **Lê Hoàng Anh** - SE170327
-- Email: anhlhse170327@fpt.edu.vn  
-- Phone: 0348663805
-- Role: Backend/Frontend Development
-
-**AI Team**
-- **Nguyễn Đức Lân** - SE193199
-- Email: lannguyen68609@gmail.com
-- Phone: 0903842341
-- Role: AI Development
+- **Nguyễn Văn Duy Khiêm** - SE180168
+- Email: khiemnguyen120216@gmail.com
+- Phone: 083-6262-507
+- Role: Backend Engineer
 
 - **Nguyễn Quách Lam Giang** - SE194447
 - Email: nguyenlamgiang2198@gmail.com
-- Phone: 0899197017
-- Role: AI Development
+- Phone: 089-9197-017
+- Role: Data Engineer
 
-- **Đỗ Khang** - SE196305
-- Email: dokhang307@gmail.com
-- Phone: 0943091761
-- Role: AI Development
+- **Nguyễn Công Minh** - SE182968
+- Email: minhncse182968@fpt.edu.vn
+- Phone: 036-240-1520
+- Role: Backend Engineer
+
+- **Nguyễn Văn Anh Duy** - SE181823
+- Email: duynguyenvananh@gmail.com
+- Phone: 038-788-3041
+- Role: AI Engineer
+
+- **Lê Vũ Phương Hoà** - SE181951
+- Email: hoalvpse181951@fpt.edu.vn
+- Phone: 032-703-0024
+- Role: Backend Engineer
+
+- **Trần Huỳnh Bảo Minh** - SE193028
+- Email: baominhbrthcs@gmail.com
+- Phone: 078-222-4999
+- Role: AI Engineer
+
 
 ## Project Vision
 
